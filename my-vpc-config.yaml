@@ -1,4 +1,4 @@
-template-file-path: templates/vpc.yaml
+template-file-path: templates/my-vpc-config.yaml
 parameters:
   VpcName: git-demo-1
 tags:
